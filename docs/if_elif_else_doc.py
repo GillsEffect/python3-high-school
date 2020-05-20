@@ -96,7 +96,7 @@ print("-"*30)
 # !=
 # İki sayının birbirine eşit olup olmadığını sorgular. (Eşitse False döndürür.)
 #
-# and
+# and "ve"
 # Bu anahtar kelime SADECE VE SADECE soluna ve sağına yazılan statement'ların
 # ikisi birden True ise True döner. Örneğin:
 
@@ -108,7 +108,7 @@ print(10<20 and 40<50) # True and True -> True
 
 print("-"*30)
 
-# or
+# or "veya"
 # Bu anahtar kelime SADECE VE SADECE soluna ve sağına yazılan statement'ların
 # ikisi birden False ise False döner.Örneğin:
 
