@@ -259,4 +259,12 @@
 # ```
 # Mesajınızın başına ve sonuna yazdığınızda mesaj kod formatında atılacaktır.
 # Yazdığınız kodu mesaj olarak atarken bu şekilde atmazsanız doğruluğunu kontrol edemem.
-# Çözümler gelecek dersimizde yayınlanacak. BOL ŞANS. 
+# Çözümler gelecek dersimizde yayınlanacak. BOL ŞANS.
+# --------------------------------GÜNCELLEME------------------------------------
+#
+# 1. sorudaki inputlar için input fonksiyonu kullanmanıza gerek yok, sabit bir
+# listeye elemanları vererek çalışabilirsiniz. İnput ile yapan arkadaşların
+# değiştirmelerine gerek yok.
+#
+# Bilgisayarında python2.7 olan arkadaşlar bazı SyntaxError'lar alabilir. Beklenmedik
+# syntax errorlar alırsanız özelden ulaşmanız halinde yardımcı olacağım.

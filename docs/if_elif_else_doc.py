@@ -1,4 +1,4 @@
-#            Programming with Python3 - Exercise set #1
+#                     Programming with Python3
 #                     Written by Mustafa Gilli
 #                      github.com/GillsEffect
 #
