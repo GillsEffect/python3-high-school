@@ -1,0 +1,15 @@
+			ARITMETHIC OPERATIONS
+
++	
+
+-	
+
+*	
+	
+/
+
+%	
+
+**    	= pow(a,b)
+
+NOT: Aritmatik işlemlerde floatlara dikkat etmeyi unutmayın.

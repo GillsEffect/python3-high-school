@@ -1,0 +1,29 @@
+			BASIC DATA TYPES (TEMEL VERİ TİPLERİ)
+
+type()
+print()
+input()
+
+
+
+1- Numerical Data Types
+	a- Integers	1,2,3,4..			int()
+	b- Floats	1.2, -1.0734			float()
+
+2- Symbolic Data Types(Non-numerical)
+	a- Strings(*)		"kelimeler idi."	str()	
+	b- Boolean Values	True, False		bool()	
+				1	0
+				"sda"	""
+				-1
+				1.1
+
+CONTAINERS
+1- Strings(*)
+2- Lists
+3- Tuples
+
+
+
+
+
