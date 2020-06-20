@@ -1,0 +1,51 @@
+		STRINGS
+
+"FIRAT İLHAN OKULLARI"[start:end:step]
+
+
+- Indexleme 0'dan başlar birer artarak ilerler.
+- Start, end ve step kullanımı ve bunların default değerleri
+	*Step düz indexlemede 1, terste ise -1'dir.
+- [::-1] tekniği stringin direkt tersini verir.
+- Concatenation(stringlerde toplama) "fırat" + " ilhan" + " okulları"
+
+	String Methods
+
+Python has a set of built-in methods that you can use on strings.
+
+"mesela bir string gibi".title() -->"Mesela Bir String Gibi"
+"Selam".isdigit() --> False
+"Selam".swapcase() --> "sELAM"
+"Selam".find("e") --> 1
+"Selam".index("e") --> 1
+"Selam".find("Ğ") --> -1
+"Selam".index("Ğ") --> ValueError
+
+			input() ve print() fonksiyonları
+
+input() 	---> kullanıcıdan input alır ve 
+		alınan inputu python ortamına HER ZAMAN STRING tipinde geçirir.
+int(input()) 	---> kullanıcıdan alınan inputu INTEGER tipine çevirmeye çalışır.
+			-başarırsa değeri döndürür.
+			-başaramazsa da error döndürür.
+float(input()) 	---> kullanıcıdan alınan inputu FLOAT tipine çevirmeye çalışır.
+			-başarırsa değeri döndürür.
+			-başaramazsa da error döndürür.
+
+input("Bir sayı girin: ") ---> Input fonksiyonu parantezlerin içine yazılan stringi
+				input almadan önce ekrana bastırır daha sonra input alır.
+
+print("Hello World")
+a = "Bonjour le Monde"
+b = input()
+Hola Mundo!
+c = int(input())
+7632867
+print("Hello World!", "Merhaba Dünya!", "Hallo Welt!", a, b, c)
+Hello World! Merhaba Dünya! Hallo Welt! Bonjour le Monde! Hola Mundo! 7632867
+
+
+
+
+
+
