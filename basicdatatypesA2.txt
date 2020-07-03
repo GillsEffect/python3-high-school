@@ -1,0 +1,15 @@
+		BASIC DATA TYPES
+1- Numerical Data Types
+	1- Integers		3,5,2,-1,21,999999 		int()
+	2- Floats		3.1,1.0,-8.04587 		float()
+
+2- Symbolic Data Types (Non-numerical)
+	1- Strings(*)		"arasına yazılmış her şey"	str()
+	2- Boolean Values	True, False			bool()
+
+
+
+		CONTAINERS
+1- Strings	"selam", "slm"...
+2- Lists	[1,2,3,4]	list()
+3- Tuples	(1,2,3,4)	

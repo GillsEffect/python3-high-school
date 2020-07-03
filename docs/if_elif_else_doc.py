@@ -4,8 +4,8 @@
 #
 #                   IF/ELIF/ELSE KONU ANLATIM DOKÜMANI
 #
-# Dersimizin şimdiye kadarki her koşulda çalışan kodlar yazdık. Hatasız yazılmış
-# her kod satırımızın çalıştığını gördük. Peki sadeece belli koşullarda çalışacak,
+# Dersimizin şimdiye kadarki bölümünde her koşulda çalışan kodlar yazdık. Hatasız yazılmış
+# her kod satırımızın çalıştığını gördük. Peki sadece belli koşullarda çalışacak,
 # o koşullar sağlanmadığında ise çalışmayacak kodları nasıl yazacağız?
 #
 # Bu noktada Python'ın <if>, <elif> ve <else> anahtar kelimelerini öğrenmemiz gerekiyor.
@@ -63,7 +63,7 @@ print("Hoşgeldiniz")                                                           
 yas = int(input("Yaşınızı girin:"))                                             # 2. satır
 if yas < 21:                                                                    # 3. satır
     print("Sokağa çıkmak için çok gençsiniz. Lütfen evde kalın.")               # 4. satır
-elif yas > 65:                                                                  # 5. satır
+elif yas < 17:                                                                  # 5. satır
     print("Sokağa çıkmak için çok yaşlısınız. Lütfen evde kalın.")              # 6. satır
 else:                                                                           # 7. satır
     print("Sokağa çıkabilirsiniz. Lütfen sadece gerektiğinde dışarı çıkın.")    # 8. satır
