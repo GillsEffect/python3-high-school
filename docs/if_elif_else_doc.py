@@ -14,7 +14,7 @@ print("-"*30)
 
 
 print("Hoşgeldiniz")                                                 # 1. satır
-yas = int(input("Yaşınızı girin:"))                                  # 2. satır
+yas = int(input("Yaşınızı girin:"))          #15                      # 2. satır
 if yas < 21:                                                         # 3. satır
     print("Sokağa çıkmak için çok gençsiniz. Lütfen evde kalın.")    # 4. satır
 print("Hoşçakalın")                                                  # 5. satır
@@ -63,7 +63,7 @@ print("Hoşgeldiniz")                                                           
 yas = int(input("Yaşınızı girin:"))                                             # 2. satır
 if yas < 21:                                                                    # 3. satır
     print("Sokağa çıkmak için çok gençsiniz. Lütfen evde kalın.")               # 4. satır
-elif yas < 17:                                                                  # 5. satır
+elif yas > 65:                                                                  # 5. satır
     print("Sokağa çıkmak için çok yaşlısınız. Lütfen evde kalın.")              # 6. satır
 else:                                                                           # 7. satır
     print("Sokağa çıkabilirsiniz. Lütfen sadece gerektiğinde dışarı çıkın.")    # 8. satır
